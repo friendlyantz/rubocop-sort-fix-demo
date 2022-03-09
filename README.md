@@ -2,6 +2,7 @@
 Rubocop demo to show Lint/RedundantDirGlobSort is not safe
 
 `demo_fail.rb` does NOT contain `.sort`
+
 `demo_success.rb` does contain `.sort`
 
 running ruby demo_fail.rb in Ruby ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [arm64-darwin21]
